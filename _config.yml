@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Sooki- Personal Website
+title: Sooki- Personal Websit
 description: Suresh Rathnaraj - Personal Website
 keywords: Sookinoby, Suresh Rathnaraj, Machine Learning
 baseurl:  / # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -32,8 +32,8 @@ author:  # change following line to your infomation.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
+  #name: jalpc
+  #public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
 
 # analytics
 ## google analytics
