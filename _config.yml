@@ -1,7 +1,7 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: Suresh Rathnaraj 
+title: Suresh Rathnara
 description: Suresh Rathnaraj 
 keywords: Sookinoby, Suresh Rathnaraj, Machine Learning
 baseurl:   # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
@@ -30,7 +30,7 @@ author:  # change following line to your infomation.
     - name: icon-apache
   desc: I am polyglot full stack developer/ machine learning engineer with master's degree in computer science. I love machine learning, computer vision, and artificial intelligence.
   I have completed machine learning specialization from Coursera - University of Washington and currently pursuing nano-degree in self-driving cars.
-  
+
      # Describe yourself.
 
 # comment
