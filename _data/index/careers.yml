@@ -1,7 +1,7 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Master's in Computer Science (Canda)
+    detail: Master's in Computer Science, UNBC (Canada)
     i18n: company_b
   desc:
     detail: I did research on machine learning, modeliling and simulation.
@@ -14,9 +14,8 @@
     i18n: company_b_job
   icon: fa-plus-square
 
-
 - name:
-    detail:Road2Math (Canada)
+    detail: Road2Math (Canada)
     i18n: company_a
   desc:
     detail: Road2Math being a startup I was responsible for full product design and development. I worked with various programming language (Java, Javascript, Python, C#) and framework(AngularJs, ExrpessJS,. NET) to design web application for Road2Math. 
@@ -25,35 +24,34 @@
     detail: Jan. 2015 to Mar. 2016
     i18n: company_a_date
   job:
-    detail: NSERC reseacher 
+    detail: NSERC Researcher 
     i18n: company_a_job
   icon: fa-plus-square
 
 - name:
     detail: Symantec Corporation (India)
-    i18n: company_b
+    i18n: company_c
   desc:
     detail: As my team followed agile methodology, I had the opportunity to work on various aspects of software development. I participated in design, development, testing of web services, web-app, android application and ios application. I quit the job to pursue higher studies in Canada.
-    i18n: company_b_desc
+    i18n: company_c_desc
   date:
     detail: Jun. 2012 to Jul. 2014
-    i18n: company_b_date
+    i18n: company_c_date
   job:
     detail: Associate Software Engineer
-    i18n: company_b_job
+    i18n: company_c_job
   icon: fa-plus-square
 
-  - name:
-    detail: B.Tech Inforamtion Technology , Madras institute of Technology(India)
-    i18n: company_b
+- name:
+    detail: B.Tech Inforamtion Technology Madras institute of Technology(India)
+    i18n: company_c
   desc:
-    detail: Undergraduate studies. The final year project involved machine learning and computer vision. 
-    i18n: company_b_desc
+    detail:  Undergraduate studies. The final year project involved machine learning and computer vision.
+    i18n: company_c_desc
   date:
     detail: Jun. 2008 to Jul. 2012
-    i18n: company_b_date
+    i18n: company_c_date
   job:
-    detail: Associate Software Engineer
-    i18n: company_b_job
+    detail: Undergraduate Student
+    i18n: company_c_job
   icon: fa-plus-square
-

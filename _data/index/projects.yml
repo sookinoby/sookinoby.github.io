@@ -1,21 +1,30 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: Behavioral Cloning
+  i18n: beh
+  gh_user: sookinoby
+  repo: behavior-cloning
+  img: /static/assets/img/landing/behaviour_cloning.png
+  desc: Uses deep learning to drive a car autonomously (udacity project). 
 
-- name: LeetCode
-  i18n: leetcode
-  gh_user: kamyu104
-  repo: LeetCode
-  img: /static/assets/img/landing/leetcode.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Vehicle Detection
+  i18n: vd
+  gh_user: sookinoby
+  repo: vehicle-detection
+  img: /static/assets/img/landing/detection.png
+  desc: Uses Histogram of Oriented Gradients(HOG) and Support Vector Machine(SVM) to detect cars (udacity project).
 
-- name: FamilyCODE Wchat
-  i18n: familycode
-  img: /static/assets/img/landing/familycode.png
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+- name: Advance Lane Finding
+  i18n: alf
+  img: /static/assets/img/landing/advance.png
+  gh_user: sookinoby
+  repo: advance-lane-finding
+  desc: Uses camera calibration, perspective transforms, color thresholding in various color space to identify lanes lines.
+
+- name: German traffic sign classification
+  i18n: alf
+  img: /static/assets/img/landing/advance.png
+  gh_user: sookinoby
+  repo: traffic-sign
+  desc: German traffic-sign classification using tensorflow,keras, transfer learning.
