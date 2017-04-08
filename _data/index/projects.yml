@@ -24,7 +24,7 @@
 
 - name: German traffic sign classification
   i18n: alf
-  img: /static/assets/img/landing/traffic.png
+  img: /static/assets/img/landing/traffic.jpg
   gh_user: sookinoby
   repo: traffic-sign
   desc: German traffic-sign classification using tensorflow,keras, transfer learning.
