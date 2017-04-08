@@ -1,2 +1,2 @@
-# Title
-Personal website
+# Personal website
+My personal website using jalpc theme
