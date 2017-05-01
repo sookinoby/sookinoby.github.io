@@ -16,7 +16,7 @@ author:  # change following line to your infomation.
   last_name: Chelladurai  # Be used at index page about me section.
   avatar: /static/assets/img/landing/2.jpg  # upload your avatar at directory and edit it.
   github_username: sookinoby  # Leave blank if you don't have now
-  linkedin_id: suresh-rathnaraj-42a70477 # Leave blank if you don't have now
+  linkedin_id: in/sookinoby # Leave blank if you don't have now
   facebook_username:   # Leave blank if you don't have now
   twitter_username:   # Leave blank if you don't have now
   email: sookinoby@gmail.com  # Leave blank if you don't have now
@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: "I am polyglot full stack developer/ machine learning engineer with master's degree in computer science. I am passionate about machine learning, computer vision, and artificial intelligence.I have completed machine learning specialization from Coursera - University of Washington and currently pursuing nano-degree in self-driving cars. I believe deep learning is the new electricity and it will revolutionize the world.  Apart from computer science, I love outdoor sports, travelling and meditation."
+  desc: "I am polyglot full stack developer/ machine learning engineer with master's degree in computer science. I designed and developed road2math. I am passionate about machine learning, computer vision, and artificial intelligence. I have completed machine learning specialization from Coursera - University of Washington and currently pursuing nano-degree in self-driving cars. I believe deep learning is the new electricity and it will revolutionize the world. Apart from computer science, I love outdoor sports, travelling and meditation."
      # Describe yourself.
 
 # comment
